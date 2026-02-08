@@ -1,1 +1,1 @@
-
+export const score=()=>0.5;
